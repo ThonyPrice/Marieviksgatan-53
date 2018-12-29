@@ -39,7 +39,7 @@ _Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga dem i et
 
 Infoga alla bilder här...
 
-![Översikt-1](https://github.com/ThonyPrice/Marieviksgatan-53/blob/master/Img/oversikt1.jpg)
+![useful image](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/oversikt1.jpg)
 
 
 ### Om Oss :rainbow:
