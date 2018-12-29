@@ -1,6 +1,6 @@
 ## Hej! :v:
 
-Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver och för bespara alla inblandade tid har vi samlat all information om uthyrning och lägenheten här. :wink:
+Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver, för att bespara alla inblandade tid har vi samlat all information om uthyrning och lägenheten här. :wink:
 
 ### Om Lägenheten :house_with_garden:
 
