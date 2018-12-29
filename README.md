@@ -33,8 +33,12 @@ Infoga hämtningsbara filer här...
 
 ### Kontakt :mailbox:
 
-_Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga i ett mail till nedanstående address så återkommer vi snarast. _Frågor?_ Använd samma mailaddress. Vänligen inkludera `MARIEVIK` i ämnesraden. _Adress:_ thonyp(at)kth.se
+_Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga dem i ett mail till nedanstående address så återkommer vi snarast. _Frågor?_ Använd samma mailaddress. Vänligen inkludera `MARIEVIK` i ämnesraden. _Adress:_ thonyp(at)kth.se
 
 ### Bilder :camera:
 
 Infoga alla bilder här...
+
+### Om Oss :rainbow:
+
+Vi har bott i lägenheten i strax över 1 år och trivs fantastiskt bra både i lägenheten och med området. Anledningen till uthyrning är pga utlandsstudier.
