@@ -19,11 +19,25 @@ Lägenheten har öppen planlösning mellan kök och vardagsrum, och ett stort se
 - **Bredband:** 350;-
 - **Totalt:** 10.300;- 
 
-Lägenheten uthyres möblerad. Summan av en hel månadshyra kommer tas deposition vilket återfås vid utflytt. 
+Lägenheten uthyres möblerad. Summan av en full månadshyra kommer tas i deposition vilket återfås vid utflyttning. 
 
 ### Området och Förbindelser
 
 Årstadal är en nybyggd stadsdel med utsikt över Årstaviken med Hornstull och Tantolunden på andra sidan. I Årstadal finns flera matvarubutiker och restauranger. Gångavstånd till Liljeholmen på 5 min med Liljeholmstorgets Galleria och tunnelbanans röda linje. Utanför huset går tvärbanan och en station bort finns pendel i Årstaberg. 
+
+### Kontrakt
+
+Infoga hämtningsbara filer här...
+
+### Kontakt
+
+_Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga i ett mail till nedanstående address så återkommer vi snarast. _Frågor?_ Använd samma mailaddress. Vänligen inkludera `MARIEVIK` i ämnesraden. 
+
+[Mail](thonyp@kth.se)
+
+### Bilder
+
+Infoga all bilder här...
 
 EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF
 
