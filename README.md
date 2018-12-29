@@ -5,7 +5,7 @@ Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägen
 ### Om Lägenheten :house_with_garden:
 
 - **Hyresperiod:** Slutet av Januari / 1:a Februari* --> 31:a Maj 2019.
-- **Address:** Marieviksgatan 53, Årstadal/Liljeholmen.
+- **Address:** Marieviksgatan 53, 117 60 Stockholm.
 - **Yta:** 2 rok, 52kvm + 6kvm balkong.
 - **Byggår:** 2010.
 - **Hyresvärd:** Familjebostäder.
@@ -37,4 +37,4 @@ _Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga i ett ma
 
 ### Bilder :camera:
 
-Infoga all bilder här...
+Infoga alla bilder här...
