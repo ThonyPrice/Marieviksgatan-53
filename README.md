@@ -2,7 +2,7 @@
 
 Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver, för att bespara alla inblandade tid har vi samlat all information om uthyrning och lägenheten här. :wink:
 
-### Om Lägenheten :house_with_garden:
+### Lägenheten :house_with_garden:
 
 - **Hyresperiod:** Slutet av Januari / 1:a Februari* --> 31:a Maj 2019.
 - **Address:** Marieviksgatan 53, 117 60 Stockholm.
@@ -23,17 +23,15 @@ Lägenheten har öppen planlösning mellan kök och vardagsrum, och ett stort se
 
 Lägenheten uthyres möblerad. Summan av en full månadshyra kommer tas i deposition vilket återfås vid utflyttning. 
 
-### Området och Förbindelser :busstop:
+### Område & Förbindelser :busstop:
 
 Årstadal är en nybyggd stadsdel med utsikt över Årstaviken med Hornstull och Tantolunden på andra sidan. I Årstadal finns flera matvarubutiker och restauranger. Gångavstånd till Liljeholmen på 5 min med Liljeholmstorgets Galleria och tunnelbanans röda linje. Utanför huset går tvärbanan och en station bort finns pendel i Årstaberg. 
 
-### Kontrakt :paperclip:
+### Kontakt & Kontrakt :mailbox:
 
-Infoga hämtningsbara filer här...
+**Frågor?** Maila till thonyprice(at)gmail.com, inkludera `MARIEVIK-INFO` i ämnesraden!
 
-### Kontakt :mailbox:
-
-_Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga dem i ett mail till nedanstående address så återkommer vi snarast. _Frågor?_ Använd samma mailaddress. Vänligen inkludera `MARIEVIK` i ämnesraden. _Adress:_ thonyp(at)kth.se
+**Kontrakt?** Klappat och klart? Maila till adressen ovan med ämnet `MARIEVIKSGATAN-53-KONTRAKT`, du kommer direkt få ett autosvar med ifyllda kontrakt. Efter du fyllt i din del, bifoga filerna i ett mail till oss så avtalar vi tid för signering asap.
 
 ### Bilder :camera:
 
