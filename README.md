@@ -1,4 +1,31 @@
-## Welcome to GitHub Pages
+## Start
+
+Hej kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver och för bespara alla tid och undvika långa mailtrådar, missade messenger-meddelanden osv har vi samlat all information om uthyrningen av vår lägenhet här. :simple_smile:
+
+### Om Lägenheten
+
+- **Hyresperiod:** Slutet av Januari (alternativt 1:a Februari) tom. 31:a Maj 2019.
+- **Address:** Marieviksgatan 53, Årstadal/Liljeholmen.
+- **Yta:** 2 rok, 52kvm + 6kvm balkong.
+- **Byggår:** 2010.
+- **Hyresvärd:** Familjebostäder.
+
+Lägenheten har öppen planlösning mellan kök och vardagsrum, och ett stort separat sovrum. Ingen tillgång till förråd men goda förvaringsutrymmen i lägenheten. Tvättmaskin och diskmaskin. För bilder, se slutet av denna sida. 
+
+### Hyra
+
+- **Bostad:** 9.650;-
+- **El:** 300;-
+- **Bredband:** 350;-
+- **Totalt:** 10.300;- 
+
+Lägenheten uthyres möblerad. Summan av en hel månadshyra kommer tas deposition vilket återfås vid utflytt. 
+
+### Området och Förbindelser
+
+Årstadal är en nybyggd stadsdel med utsikt över Årstaviken med Hornstull och Tantolunden på andra sidan. I Årstadal finns flera matvarubutiker och restauranger. Gångavstånd till Liljeholmen på 5 min med Liljeholmstorgets Galleria och tunnelbanans röda linje. Utanför huset går tvärbanan och en station bort finns pendel i Årstaberg. 
+
+EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF
 
 You can use the [editor on GitHub](https://github.com/ThonyPrice/marieviksgatan53/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
