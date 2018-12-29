@@ -4,11 +4,13 @@ Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägen
 
 ### Om Lägenheten :house_with_garden:
 
-- **Hyresperiod:** Slutet av Januari (alternativt 1:a Februari) tom. 31:a Maj 2019.
+- **Hyresperiod:** Slutet av Januari / 1:a Februari* --> 31:a Maj 2019.
 - **Address:** Marieviksgatan 53, Årstadal/Liljeholmen.
 - **Yta:** 2 rok, 52kvm + 6kvm balkong.
 - **Byggår:** 2010.
 - **Hyresvärd:** Familjebostäder.
+
+*_Beroende på när kontrakt blir färdiga_
 
 Lägenheten har öppen planlösning mellan kök och vardagsrum, och ett stort separat sovrum. Ingen tillgång till förråd men goda förvaringsutrymmen i lägenheten. Tvättmaskin och diskmaskin. För bilder, se slutet av denna sida. 
 
