@@ -37,10 +37,26 @@ _Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga dem i et
 
 ### Bilder :camera:
 
-Infoga alla bilder här...
+#### Översikt 
 
-![useful image](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/oversikt1.jpg)
+![Översikt-1](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/oversikt1.jpg)
+![Översikt-2](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/oversikt2.jpg)
+![Översikt-3](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/oversikt3.jpg)
+![Kök](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/kok.jpg)
 
+#### Sovrum
+
+![Sovrum-2](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/sovrum2.jpg)
+![Sovrum-3](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/sovrum3.jpg)
+![Sovrum-1](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/sovrum1.jpg)
+
+#### Badrum/Balkong/Planritning*
+
+![Badrum](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/badrum.jpg)
+![Balkong-1](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/balkong1.jpg)
+![Balkong-2](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/balkong2.jpg)
+![planritning](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/planritning.jpg)
+_*Vår lägenhet är spegelvänd mot planritningen ovan_
 
 ### Om Oss :rainbow:
 
