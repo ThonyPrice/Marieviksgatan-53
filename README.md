@@ -1,8 +1,8 @@
-## Hej!
+## Hej! :v:
 
-Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver och för bespara alla inblandade tid har vi samlat all information om uthyrning och lägenheten här. :simple_smile:
+Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver och för bespara alla inblandade tid har vi samlat all information om uthyrning och lägenheten här. :wink:
 
-### Om Lägenheten
+### Om Lägenheten :house_with_garden:
 
 - **Hyresperiod:** Slutet av Januari (alternativt 1:a Februari) tom. 31:a Maj 2019.
 - **Address:** Marieviksgatan 53, Årstadal/Liljeholmen.
@@ -12,7 +12,7 @@ Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägen
 
 Lägenheten har öppen planlösning mellan kök och vardagsrum, och ett stort separat sovrum. Ingen tillgång till förråd men goda förvaringsutrymmen i lägenheten. Tvättmaskin och diskmaskin. För bilder, se slutet av denna sida. 
 
-### Hyra
+### Hyra :money_with_wings:
 
 - **Bostad:** 9.650;-
 - **El:** 300;-
@@ -21,58 +21,20 @@ Lägenheten har öppen planlösning mellan kök och vardagsrum, och ett stort se
 
 Lägenheten uthyres möblerad. Summan av en full månadshyra kommer tas i deposition vilket återfås vid utflyttning. 
 
-### Området och Förbindelser
+### Området och Förbindelser :busstop:
 
 Årstadal är en nybyggd stadsdel med utsikt över Årstaviken med Hornstull och Tantolunden på andra sidan. I Årstadal finns flera matvarubutiker och restauranger. Gångavstånd till Liljeholmen på 5 min med Liljeholmstorgets Galleria och tunnelbanans röda linje. Utanför huset går tvärbanan och en station bort finns pendel i Årstaberg. 
 
-### Kontrakt
+### Kontrakt :paperclip
 
 Infoga hämtningsbara filer här...
 
-### Kontakt
+### Kontakt :mailbox:
 
 _Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga i ett mail till nedanstående address så återkommer vi snarast. _Frågor?_ Använd samma mailaddress. Vänligen inkludera `MARIEVIK` i ämnesraden. 
 
 [Mail](thonyp@kth.se)
 
-### Bilder
+### Bilder :camera:
 
 Infoga all bilder här...
-
-EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF - EOF
-
-You can use the [editor on GitHub](https://github.com/ThonyPrice/marieviksgatan53/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThonyPrice/marieviksgatan53/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
