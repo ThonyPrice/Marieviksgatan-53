@@ -56,7 +56,10 @@ _Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga dem i et
 ![Balkong-1](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/balkong1.jpg)
 ![Balkong-2](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/balkong2.jpg)
 ![planritning](https://thonyprice.github.io/Marieviksgatan-53/assets/Img/planritning.jpg)
+
 _*Vår lägenhet är spegelvänd mot planritningen ovan_
+
+_Kan du inte se bilderna? Testa [här](https://github.com/ThonyPrice/Marieviksgatan-53/tree/master/assets/Img)._
 
 ### Om Oss :rainbow:
 
