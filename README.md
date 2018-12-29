@@ -1,6 +1,6 @@
-## Start
+## Hej!
 
-Hej kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver och för bespara alla tid och undvika långa mailtrådar, missade messenger-meddelanden osv har vi samlat all information om uthyrningen av vår lägenhet här. :simple_smile:
+Hejsan kära eventuella framtida hyresgäst! Vi önskar hyra ut vår fina lägenhet framöver och för bespara alla inblandade tid har vi samlat all information om uthyrning och lägenheten här. :simple_smile:
 
 ### Om Lägenheten
 
