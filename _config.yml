@@ -1,4 +1,4 @@
 title: Marieviksgatan 53
-theme: jekyll-theme-leap-day
+theme: theme: minima
 plugins:
   - jemoji
