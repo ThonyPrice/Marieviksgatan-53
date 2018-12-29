@@ -31,9 +31,7 @@ Infoga hämtningsbara filer här...
 
 ### Kontakt :mailbox:
 
-_Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga i ett mail till nedanstående address så återkommer vi snarast. _Frågor?_ Använd samma mailaddress. Vänligen inkludera `MARIEVIK` i ämnesraden. 
-
-[Mail](thonyp@kth.se)
+_Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga i ett mail till nedanstående address så återkommer vi snarast. _Frågor?_ Använd samma mailaddress. Vänligen inkludera `MARIEVIK` i ämnesraden. _Adress:_ thonyp(at)kth.se
 
 ### Bilder :camera:
 
