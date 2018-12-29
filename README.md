@@ -31,7 +31,7 @@ Lägenheten uthyres möblerad. Summan av en full månadshyra kommer tas i deposi
 
 **Frågor?** Maila till thonyprice(at)gmail.com, inkludera `MARIEVIK-INFO` i ämnesraden!
 
-**Kontrakt?** Klappat och klart? Maila till adressen ovan med ämnet `MARIEVIKSGATAN-53-KONTRAKT`, du kommer direkt få ett autosvar med ifyllda kontrakt. Efter du fyllt i din del, bifoga filerna i ett mail till oss så avtalar vi tid för signering asap.
+**Kontrakt?** Klappat och klart? Maila till adressen ovan med ämnet `MARIEVIK-KONTRAKT`, du kommer direkt få ett autosvar med ifyllda kontrakt. Efter du fyllt i din del, bifoga filerna i ett mail till oss så avtalar vi tid för signering asap.
 
 ### Bilder :camera:
 
