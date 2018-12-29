@@ -25,7 +25,7 @@ Lägenheten uthyres möblerad. Summan av en full månadshyra kommer tas i deposi
 
 Årstadal är en nybyggd stadsdel med utsikt över Årstaviken med Hornstull och Tantolunden på andra sidan. I Årstadal finns flera matvarubutiker och restauranger. Gångavstånd till Liljeholmen på 5 min med Liljeholmstorgets Galleria och tunnelbanans röda linje. Utanför huset går tvärbanan och en station bort finns pendel i Årstaberg. 
 
-### Kontrakt :paperclip
+### Kontrakt :paperclip:
 
 Infoga hämtningsbara filer här...
 
