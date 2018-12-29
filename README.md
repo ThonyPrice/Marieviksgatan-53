@@ -39,6 +39,9 @@ _Klappat och klart?_ Fyll i dina uppgifter i kontrakten ovan och bifoga dem i et
 
 Infoga alla bilder här...
 
+![Översikt-1](https://github.com/ThonyPrice/Marieviksgatan-53/blob/master/Img/oversikt1.jpg)
+
+
 ### Om Oss :rainbow:
 
 Vi har bott i lägenheten i strax över 1 år och trivs fantastiskt bra både i lägenheten och med området. Anledningen till uthyrning är pga utlandsstudier.
