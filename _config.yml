@@ -2,3 +2,6 @@ title: Marieviksgatan 53
 theme: jekyll-theme-leap-day
 plugins:
   - jemoji
+favicon:
+  source: custom-favicon-png-or.svg
+  path: /assets/img
