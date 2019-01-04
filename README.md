@@ -62,3 +62,17 @@ _Kan du inte se bilderna? Testa [här](https://github.com/ThonyPrice/Marieviksga
 ### Om Oss :rainbow:
 
 Vi har bott i lägenheten i strax över 1 år och trivs fantastiskt bra både i lägenheten och med området. Anledningen till uthyrning är pga utlandsstudier.
+
+
+### Rental Request:
+
+Hej,
+
+Vi är ett par på 31 år som letar efter en lägenhet och din lägenhet verkar interessant. Jag är grundskolelärare och min man arbetar inom mjukvaruutveckling. Vi har båda stabila inkomster.
+
+Vi har inga husdjur och vi röker inte. Här hittar du vår annons: https://www.blocket.se/stockholm/Par_med_fast_inkomst_soker_boende_83162581.htm?ma=1
+
+Är lägenheten fortfarande ledig? Är det möjligt att få en visning ?
+
+Mvh,
+Auri
